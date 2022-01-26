@@ -1,6 +1,6 @@
 # Background Shift Animation with CSS Blend Modes
 
-A background color shift effect using a CSS blend mode and a layer animation.
+A background color shift effect using a CSS blend mode and a multi-layer animation.
 
 ![Image Title](https://tympanus.net/codrops/wp-content/uploads/2022/01/BackgroundShift_feat.jpg)
 
