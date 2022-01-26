@@ -8,19 +8,6 @@
 	font-size: 22px;
 }
 
-body #cdawrap {
-	--cda-position: relative;
-	font-family: ivypresto-display,serif;
-	font-weight: 300;
-	grid-area: intro-ad;
-	--cda-text-size: 1.5rem;
-	max-width: 10ch;
-	line-height: 1.1;
-	text-indent: -1.5rem;
-	align-self: center;
-	justify-self: center;
-}
-
 body {
 	margin: 0;
 	--color-text: #fff;
